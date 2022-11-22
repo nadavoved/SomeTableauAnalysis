@@ -1,3 +1,3 @@
-# someTableauAnalysis
+# SomeTableauAnalysis
 
 Tableau based analysis.
