@@ -1,3 +1,3 @@
 # SomeTableauAnalysis
 
-Tableau based analysis.
+Tableau based analysis of US census data.
